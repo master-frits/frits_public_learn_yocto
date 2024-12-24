@@ -1,0 +1,5 @@
+
+de token die gebruikt wordt is niet meer geldig na 23 januari 2025.
+je moet daarna een nieuwe token maken om weer een push te kunnen doen.
+
+
